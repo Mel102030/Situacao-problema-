@@ -1,1 +1,40 @@
-# Situacao-problema-
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Situação-Problema</h1>
+    <p>
+        Ana quer comprar figurinhas de um álbum de anime.  
+        Cada pacote contém <strong>5 figurinhas</strong> e custa <strong>R$ 4,00</strong>.  
+        Ela precisa completar uma parte do álbum que exige <strong>45 figurinhas</strong>.  
+        Quantos pacotes ela deve comprar e quanto vai gastar no total?
+    </p>
+    <h2>Resolução</h2>
+    <div class="box">
+        <p>
+            <strong>1) Descobrindo quantos pacotes Ana precisa:</strong><br>
+            Cada pacote tem 5 figurinhas.<br>
+            Ela precisa de 45 figurinhas.<br><br>
+            Pacotes necessários = 45 ÷ 5 = <strong>9 pacotes</strong>.
+        </p>
+    </div>
+    <div class="box">
+        <p>
+            <strong>2) Descobrindo o custo total:</strong><br>
+            Cada pacote custa R$ 4,00.<br>
+            Total = 9 × 4,00 = <strong>R$ 36,00</strong>.
+        </p>
+    </div>
+    <div class="final">
+        ✔ Ana precisa comprar <strong>9 pacotes</strong> de figurinhas.<br>
+        ✔ Ela vai gastar <strong>R$ 36,00</strong> no total.
+    </div>
+</div>
+
+</body>
+</html>
